@@ -1,0 +1,1858 @@
+[
+  {
+    "player": "Christian Benteke Liolo",
+    "team": "Liverpool",
+    "shots": 64,
+    "goals": 9,
+    "my_xg": 11.93,
+    "performance": -2.93
+  },
+  {
+    "player": "Philippe Coutinho Correia",
+    "team": "Liverpool",
+    "shots": 111,
+    "goals": 8,
+    "my_xg": 8.925,
+    "performance": -0.925
+  },
+  {
+    "player": "Roberto Firmino Barbosa de Oliveira",
+    "team": "Liverpool",
+    "shots": 65,
+    "goals": 10,
+    "my_xg": 6.879,
+    "performance": 3.121
+  },
+  {
+    "player": "Daniel Andre Sturridge",
+    "team": "Liverpool",
+    "shots": 48,
+    "goals": 8,
+    "my_xg": 5.678,
+    "performance": 2.322
+  },
+  {
+    "player": "Adam David Lallana",
+    "team": "Liverpool",
+    "shots": 42,
+    "goals": 4,
+    "my_xg": 4.319,
+    "performance": -0.319
+  },
+  {
+    "player": "James Philip Milner",
+    "team": "Liverpool",
+    "shots": 40,
+    "goals": 5,
+    "my_xg": 4.263,
+    "performance": 0.737
+  },
+  {
+    "player": "Jordan Brian Henderson",
+    "team": "Liverpool",
+    "shots": 28,
+    "goals": 2,
+    "my_xg": 2.738,
+    "performance": -0.738
+  },
+  {
+    "player": "Divock Okoth Origi",
+    "team": "Liverpool",
+    "shots": 25,
+    "goals": 6,
+    "my_xg": 2.646,
+    "performance": 3.354
+  },
+  {
+    "player": "Dejan Lovren",
+    "team": "Liverpool",
+    "shots": 22,
+    "goals": 0,
+    "my_xg": 2.631,
+    "performance": -2.631
+  },
+  {
+    "player": "Emre Can",
+    "team": "Liverpool",
+    "shots": 31,
+    "goals": 1,
+    "my_xg": 2.457,
+    "performance": -1.457
+  },
+  {
+    "player": "Daniel William John Ings",
+    "team": "Liverpool",
+    "shots": 10,
+    "goals": 2,
+    "my_xg": 2.273,
+    "performance": -0.273
+  },
+  {
+    "player": "Olivier Giroud",
+    "team": "Arsenal",
+    "shots": 10,
+    "goals": 2,
+    "my_xg": 2.24,
+    "performance": -0.24
+  },
+  {
+    "player": "Odion Jude Ighalo",
+    "team": "Watford",
+    "shots": 8,
+    "goals": 2,
+    "my_xg": 1.812,
+    "performance": 0.188
+  },
+  {
+    "player": "Joe Allen",
+    "team": "Liverpool",
+    "shots": 12,
+    "goals": 2,
+    "my_xg": 1.807,
+    "performance": 0.193
+  },
+  {
+    "player": "Alberto Moreno P\u00e9rez",
+    "team": "Liverpool",
+    "shots": 34,
+    "goals": 1,
+    "my_xg": 1.614,
+    "performance": -0.614
+  },
+  {
+    "player": "Sadio Man\u00e9",
+    "team": "Southampton",
+    "shots": 5,
+    "goals": 3,
+    "my_xg": 1.603,
+    "performance": 1.397
+  },
+  {
+    "player": "Jordon Ibe",
+    "team": "Liverpool",
+    "shots": 30,
+    "goals": 1,
+    "my_xg": 1.592,
+    "performance": -0.592
+  },
+  {
+    "player": "Nathaniel Edwin Clyne",
+    "team": "Liverpool",
+    "shots": 31,
+    "goals": 1,
+    "my_xg": 1.535,
+    "performance": -0.535
+  },
+  {
+    "player": "Ricardo Izecson dos Santos Leite",
+    "team": "AC Milan",
+    "shots": 5,
+    "goals": 1,
+    "my_xg": 1.426,
+    "performance": -0.426
+  },
+  {
+    "player": "Michail Antonio",
+    "team": "West Ham United",
+    "shots": 5,
+    "goals": 1,
+    "my_xg": 1.251,
+    "performance": -0.251
+  },
+  {
+    "player": "Mamadou Sakho",
+    "team": "Liverpool",
+    "shots": 6,
+    "goals": 1,
+    "my_xg": 1.182,
+    "performance": -0.182
+  },
+  {
+    "player": "Xabier Alonso Olano",
+    "team": "Liverpool",
+    "shots": 4,
+    "goals": 1,
+    "my_xg": 1.072,
+    "performance": -0.072
+  },
+  {
+    "player": "Harry Kane",
+    "team": "Tottenham Hotspur",
+    "shots": 9,
+    "goals": 1,
+    "my_xg": 1.062,
+    "performance": -0.062
+  },
+  {
+    "player": "Andriy Shevchenko",
+    "team": "AC Milan",
+    "shots": 6,
+    "goals": 0,
+    "my_xg": 0.946,
+    "performance": -0.946
+  },
+  {
+    "player": "Hern\u00e1n Jorge Crespo",
+    "team": "AC Milan",
+    "shots": 3,
+    "goals": 2,
+    "my_xg": 0.867,
+    "performance": 1.133
+  },
+  {
+    "player": "Alexis Alejandro S\u00e1nchez S\u00e1nchez",
+    "team": "Arsenal",
+    "shots": 4,
+    "goals": 0,
+    "my_xg": 0.838,
+    "performance": -0.838
+  },
+  {
+    "player": "Martin \u0160krtel",
+    "team": "Liverpool",
+    "shots": 10,
+    "goals": 1,
+    "my_xg": 0.827,
+    "performance": 0.173
+  },
+  {
+    "player": "Bamidele Alli",
+    "team": "Tottenham Hotspur",
+    "shots": 7,
+    "goals": 0,
+    "my_xg": 0.814,
+    "performance": -0.814
+  },
+  {
+    "player": "Mohamed Salah",
+    "team": "Liverpool",
+    "shots": 6,
+    "goals": 1,
+    "my_xg": 0.807,
+    "performance": 0.193
+  },
+  {
+    "player": "Andr\u00e9 Ayew Pel\u00e9",
+    "team": "Swansea City",
+    "shots": 5,
+    "goals": 2,
+    "my_xg": 0.795,
+    "performance": 1.205
+  },
+  {
+    "player": "Rudy Gestede",
+    "team": "Aston Villa",
+    "shots": 4,
+    "goals": 2,
+    "my_xg": 0.787,
+    "performance": 1.213
+  },
+  {
+    "player": "Lucas Pezzini Leiva",
+    "team": "Liverpool",
+    "shots": 10,
+    "goals": 0,
+    "my_xg": 0.781,
+    "performance": -0.781
+  },
+  {
+    "player": "Joshua King",
+    "team": "AFC Bournemouth",
+    "shots": 7,
+    "goals": 1,
+    "my_xg": 0.767,
+    "performance": 0.233
+  },
+  {
+    "player": "Virgil van Dijk",
+    "team": "Southampton",
+    "shots": 4,
+    "goals": 0,
+    "my_xg": 0.741,
+    "performance": -0.741
+  },
+  {
+    "player": "Craig Dawson",
+    "team": "West Bromwich Albion",
+    "shots": 2,
+    "goals": 1,
+    "my_xg": 0.713,
+    "performance": 0.287
+  },
+  {
+    "player": "Yannick Bolasie Yala",
+    "team": "Crystal Palace",
+    "shots": 2,
+    "goals": 1,
+    "my_xg": 0.712,
+    "performance": 0.288
+  },
+  {
+    "player": "Vladimir Smicer",
+    "team": "Liverpool",
+    "shots": 3,
+    "goals": 2,
+    "my_xg": 0.708,
+    "performance": 1.292
+  },
+  {
+    "player": "Christian Dannemann Eriksen",
+    "team": "Tottenham Hotspur",
+    "shots": 7,
+    "goals": 0,
+    "my_xg": 0.703,
+    "performance": -0.703
+  },
+  {
+    "player": "Jamie Vardy",
+    "team": "Leicester City",
+    "shots": 4,
+    "goals": 2,
+    "my_xg": 0.699,
+    "performance": 1.301
+  },
+  {
+    "player": "John Arne Semundseth Riise",
+    "team": "Liverpool",
+    "shots": 4,
+    "goals": 0,
+    "my_xg": 0.683,
+    "performance": -0.683
+  },
+  {
+    "player": "Georginio Wijnaldum",
+    "team": "Newcastle United",
+    "shots": 5,
+    "goals": 1,
+    "my_xg": 0.672,
+    "performance": 0.328
+  },
+  {
+    "player": "Djibril Ciss\u00e9",
+    "team": "Liverpool",
+    "shots": 2,
+    "goals": 1,
+    "my_xg": 0.661,
+    "performance": 0.339
+  },
+  {
+    "player": "Ander Herrera Ag\u00fcera",
+    "team": "Manchester United",
+    "shots": 2,
+    "goals": 1,
+    "my_xg": 0.659,
+    "performance": 0.341
+  },
+  {
+    "player": "Jos\u00e9 Salom\u00f3n Rond\u00f3n Gim\u00e9nez",
+    "team": "West Bromwich Albion",
+    "shots": 8,
+    "goals": 1,
+    "my_xg": 0.658,
+    "performance": 0.342
+  },
+  {
+    "player": "Claudio Santos",
+    "team": "AC Milan",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.644,
+    "performance": -0.644
+  },
+  {
+    "player": "Andrea Pirlo",
+    "team": "AC Milan",
+    "shots": 3,
+    "goals": 0,
+    "my_xg": 0.629,
+    "performance": -0.629
+  },
+  {
+    "player": "Wes Hoolahan",
+    "team": "Norwich City",
+    "shots": 2,
+    "goals": 1,
+    "my_xg": 0.628,
+    "performance": 0.372
+  },
+  {
+    "player": "Lucas Rodrigues Moura da Silva",
+    "team": "Tottenham Hotspur",
+    "shots": 2,
+    "goals": 0,
+    "my_xg": 0.625,
+    "performance": -0.625
+  },
+  {
+    "player": "Aaron Ramsey",
+    "team": "Arsenal",
+    "shots": 5,
+    "goals": 1,
+    "my_xg": 0.623,
+    "performance": 0.377
+  },
+  {
+    "player": "Dietmar Hamann",
+    "team": "Liverpool",
+    "shots": 2,
+    "goals": 1,
+    "my_xg": 0.612,
+    "performance": 0.388
+  },
+  {
+    "player": "Graziano Pell\u00e8",
+    "team": "Southampton",
+    "shots": 7,
+    "goals": 1,
+    "my_xg": 0.611,
+    "performance": 0.389
+  },
+  {
+    "player": "Andy Carroll",
+    "team": "West Ham United",
+    "shots": 5,
+    "goals": 1,
+    "my_xg": 0.607,
+    "performance": 0.393
+  },
+  {
+    "player": "Jon Dahl Tomasson",
+    "team": "AC Milan",
+    "shots": 1,
+    "goals": 1,
+    "my_xg": 0.604,
+    "performance": 0.396
+  },
+  {
+    "player": "Nathan Ak\u00e9",
+    "team": "Watford",
+    "shots": 1,
+    "goals": 1,
+    "my_xg": 0.592,
+    "performance": 0.408
+  },
+  {
+    "player": "Heung-Min Son",
+    "team": "Tottenham Hotspur",
+    "shots": 6,
+    "goals": 0,
+    "my_xg": 0.578,
+    "performance": -0.578
+  },
+  {
+    "player": "Steve Cook",
+    "team": "AFC Bournemouth",
+    "shots": 3,
+    "goals": 0,
+    "my_xg": 0.564,
+    "performance": -0.564
+  },
+  {
+    "player": "Andrew Philip King",
+    "team": "Leicester City",
+    "shots": 2,
+    "goals": 0,
+    "my_xg": 0.563,
+    "performance": -0.563
+  },
+  {
+    "player": "Jonas Olsson",
+    "team": "West Bromwich Albion",
+    "shots": 1,
+    "goals": 1,
+    "my_xg": 0.514,
+    "performance": 0.486
+  },
+  {
+    "player": "Tommy Elphick",
+    "team": "AFC Bournemouth",
+    "shots": 2,
+    "goals": 0,
+    "my_xg": 0.495,
+    "performance": -0.495
+  },
+  {
+    "player": "Manuel Lanzini",
+    "team": "West Ham United",
+    "shots": 4,
+    "goals": 1,
+    "my_xg": 0.481,
+    "performance": 0.519
+  },
+  {
+    "player": "Dieumerci Mbokani Bezua",
+    "team": "Norwich City",
+    "shots": 1,
+    "goals": 1,
+    "my_xg": 0.48,
+    "performance": 0.52
+  },
+  {
+    "player": "Romelu Lukaku Menama",
+    "team": "Everton",
+    "shots": 5,
+    "goals": 1,
+    "my_xg": 0.477,
+    "performance": 0.523
+  },
+  {
+    "player": "Scott Dann",
+    "team": "Crystal Palace",
+    "shots": 4,
+    "goals": 1,
+    "my_xg": 0.466,
+    "performance": 0.534
+  },
+  {
+    "player": "Sergio Leonel Ag\u00fcero del Castillo",
+    "team": "Manchester City",
+    "shots": 3,
+    "goals": 1,
+    "my_xg": 0.464,
+    "performance": 0.536
+  },
+  {
+    "player": "Tyler Roberts",
+    "team": "West Bromwich Albion",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.459,
+    "performance": -0.459
+  },
+  {
+    "player": "Ramires Santos do Nascimento",
+    "team": "Chelsea",
+    "shots": 2,
+    "goals": 1,
+    "my_xg": 0.45,
+    "performance": 0.55
+  },
+  {
+    "player": "Almen Abdi",
+    "team": "Watford",
+    "shots": 3,
+    "goals": 0,
+    "my_xg": 0.44,
+    "performance": -0.44
+  },
+  {
+    "player": "Fernando Luiz Rosa",
+    "team": "Manchester City",
+    "shots": 2,
+    "goals": 0,
+    "my_xg": 0.438,
+    "performance": -0.438
+  },
+  {
+    "player": "Shinji Okazaki",
+    "team": "Leicester City",
+    "shots": 4,
+    "goals": 0,
+    "my_xg": 0.434,
+    "performance": -0.434
+  },
+  {
+    "player": "Miguel \u00c1ngel Britos Cabrera",
+    "team": "Watford",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.419,
+    "performance": -0.419
+  },
+  {
+    "player": "Adam Johnson",
+    "team": "Sunderland",
+    "shots": 4,
+    "goals": 1,
+    "my_xg": 0.409,
+    "performance": 0.591
+  },
+  {
+    "player": "Joe Ledley",
+    "team": "Crystal Palace",
+    "shots": 2,
+    "goals": 1,
+    "my_xg": 0.409,
+    "performance": 0.591
+  },
+  {
+    "player": "Kolo Habib Tour\u00e9",
+    "team": "Liverpool",
+    "shots": 4,
+    "goals": 1,
+    "my_xg": 0.408,
+    "performance": 0.592
+  },
+  {
+    "player": "Peter Crouch",
+    "team": "Stoke City",
+    "shots": 2,
+    "goals": 0,
+    "my_xg": 0.401,
+    "performance": -0.401
+  },
+  {
+    "player": "Oluwaseyi Babajide Ojo",
+    "team": "Liverpool",
+    "shots": 5,
+    "goals": 0,
+    "my_xg": 0.381,
+    "performance": -0.381
+  },
+  {
+    "player": "Lewis Grabban",
+    "team": "AFC Bournemouth",
+    "shots": 3,
+    "goals": 0,
+    "my_xg": 0.378,
+    "performance": -0.378
+  },
+  {
+    "player": "Mark Noble",
+    "team": "West Ham United",
+    "shots": 3,
+    "goals": 1,
+    "my_xg": 0.363,
+    "performance": 0.637
+  },
+  {
+    "player": "Fernando Francisco Reges",
+    "team": "Manchester City",
+    "shots": 2,
+    "goals": 0,
+    "my_xg": 0.356,
+    "performance": -0.356
+  },
+  {
+    "player": "Nathan Dyer",
+    "team": "Leicester City",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.351,
+    "performance": -0.351
+  },
+  {
+    "player": "Jaap Stam",
+    "team": "AC Milan",
+    "shots": 2,
+    "goals": 0,
+    "my_xg": 0.336,
+    "performance": -0.336
+  },
+  {
+    "player": "Ashley Westwood",
+    "team": "Aston Villa",
+    "shots": 3,
+    "goals": 0,
+    "my_xg": 0.33,
+    "performance": -0.33
+  },
+  {
+    "player": "Daley Blind",
+    "team": "Manchester United",
+    "shots": 1,
+    "goals": 1,
+    "my_xg": 0.325,
+    "performance": 0.675
+  },
+  {
+    "player": "Enner Remberto Valencia Lastra",
+    "team": "West Ham United",
+    "shots": 2,
+    "goals": 0,
+    "my_xg": 0.325,
+    "performance": -0.325
+  },
+  {
+    "player": "Toby Alderweireld",
+    "team": "Tottenham Hotspur",
+    "shots": 3,
+    "goals": 0,
+    "my_xg": 0.321,
+    "performance": -0.321
+  },
+  {
+    "player": "Jefferson Antonio Montero Vite",
+    "team": "Swansea City",
+    "shots": 4,
+    "goals": 0,
+    "my_xg": 0.314,
+    "performance": -0.314
+  },
+  {
+    "player": "Paolo Maldini",
+    "team": "AC Milan",
+    "shots": 3,
+    "goals": 1,
+    "my_xg": 0.311,
+    "performance": 0.689
+  },
+  {
+    "player": "Steven Naismith",
+    "team": "Everton",
+    "shots": 2,
+    "goals": 1,
+    "my_xg": 0.308,
+    "performance": 0.692
+  },
+  {
+    "player": "Jack Frank Porteous Cork",
+    "team": "Swansea City",
+    "shots": 4,
+    "goals": 1,
+    "my_xg": 0.307,
+    "performance": 0.693
+  },
+  {
+    "player": "Wayne Mark Rooney",
+    "team": "Manchester United",
+    "shots": 2,
+    "goals": 1,
+    "my_xg": 0.307,
+    "performance": 0.693
+  },
+  {
+    "player": "Steven Caulker",
+    "team": "Liverpool",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.302,
+    "performance": -0.302
+  },
+  {
+    "player": "Ashley Young",
+    "team": "Manchester United",
+    "shots": 3,
+    "goals": 0,
+    "my_xg": 0.297,
+    "performance": -0.297
+  },
+  {
+    "player": "Simon Francis",
+    "team": "AFC Bournemouth",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.295,
+    "performance": -0.295
+  },
+  {
+    "player": "Charlie Adam",
+    "team": "Stoke City",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.293,
+    "performance": -0.293
+  },
+  {
+    "player": "Pedro Eliezer Rodr\u00edguez Ledesma",
+    "team": "Chelsea",
+    "shots": 3,
+    "goals": 0,
+    "my_xg": 0.293,
+    "performance": -0.293
+  },
+  {
+    "player": "Papiss Demba Ciss\u00e9",
+    "team": "Newcastle United",
+    "shots": 1,
+    "goals": 1,
+    "my_xg": 0.289,
+    "performance": 0.711
+  },
+  {
+    "player": "Russell Martin",
+    "team": "Norwich City",
+    "shots": 1,
+    "goals": 1,
+    "my_xg": 0.288,
+    "performance": 0.712
+  },
+  {
+    "player": "Jermain Defoe",
+    "team": "Sunderland",
+    "shots": 3,
+    "goals": 1,
+    "my_xg": 0.283,
+    "performance": 0.717
+  },
+  {
+    "player": "Jos\u00e9 Miguel da Rocha Fonte",
+    "team": "Southampton",
+    "shots": 2,
+    "goals": 0,
+    "my_xg": 0.279,
+    "performance": -0.279
+  },
+  {
+    "player": "Eden Hazard",
+    "team": "Chelsea",
+    "shots": 3,
+    "goals": 1,
+    "my_xg": 0.259,
+    "performance": 0.741
+  },
+  {
+    "player": "Cameron Brannagan",
+    "team": "Liverpool",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.257,
+    "performance": -0.257
+  },
+  {
+    "player": "Riyad Mahrez",
+    "team": "Leicester City",
+    "shots": 6,
+    "goals": 0,
+    "my_xg": 0.248,
+    "performance": -0.248
+  },
+  {
+    "player": "Emmanuel Adebayor",
+    "team": "Crystal Palace",
+    "shots": 2,
+    "goals": 0,
+    "my_xg": 0.242,
+    "performance": -0.242
+  },
+  {
+    "player": "Clinton Mua N''Jie",
+    "team": "Tottenham Hotspur",
+    "shots": 3,
+    "goals": 0,
+    "my_xg": 0.241,
+    "performance": -0.241
+  },
+  {
+    "player": "Oscar dos Santos Emboaba J\u00fanior",
+    "team": "Chelsea",
+    "shots": 3,
+    "goals": 0,
+    "my_xg": 0.24,
+    "performance": -0.24
+  },
+  {
+    "player": "Steven Gerrard",
+    "team": "Liverpool",
+    "shots": 2,
+    "goals": 1,
+    "my_xg": 0.238,
+    "performance": 0.762
+  },
+  {
+    "player": "Steven Davis",
+    "team": "Southampton",
+    "shots": 2,
+    "goals": 0,
+    "my_xg": 0.23,
+    "performance": -0.23
+  },
+  {
+    "player": "Callum Wilson",
+    "team": "AFC Bournemouth",
+    "shots": 2,
+    "goals": 0,
+    "my_xg": 0.225,
+    "performance": -0.225
+  },
+  {
+    "player": "Chancel Mbemba Mangulu",
+    "team": "Newcastle United",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.224,
+    "performance": -0.224
+  },
+  {
+    "player": "Duncan Watmore",
+    "team": "Sunderland",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.222,
+    "performance": -0.222
+  },
+  {
+    "player": "Matt Ritchie",
+    "team": "AFC Bournemouth",
+    "shots": 9,
+    "goals": 0,
+    "my_xg": 0.219,
+    "performance": -0.219
+  },
+  {
+    "player": "Gylfi \u00de\u00f3r Sigur\u00f0sson",
+    "team": "Swansea City",
+    "shots": 4,
+    "goals": 0,
+    "my_xg": 0.218,
+    "performance": -0.218
+  },
+  {
+    "player": "Matt Jarvis",
+    "team": "Norwich City",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.217,
+    "performance": -0.217
+  },
+  {
+    "player": "Bertrand Isidore Traor\u00e9",
+    "team": "Chelsea",
+    "shots": 4,
+    "goals": 0,
+    "my_xg": 0.214,
+    "performance": -0.214
+  },
+  {
+    "player": "Kevin Linford Stewart",
+    "team": "Liverpool",
+    "shots": 5,
+    "goals": 0,
+    "my_xg": 0.211,
+    "performance": -0.211
+  },
+  {
+    "player": "Marco van Ginkel",
+    "team": "Stoke City",
+    "shots": 2,
+    "goals": 0,
+    "my_xg": 0.208,
+    "performance": -0.208
+  },
+  {
+    "player": "S\u00e9bastien Aymar Bassong Nguena",
+    "team": "Norwich City",
+    "shots": 2,
+    "goals": 1,
+    "my_xg": 0.208,
+    "performance": 0.792
+  },
+  {
+    "player": "\u00c0ngel Rangel Zaragoza",
+    "team": "Swansea City",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.208,
+    "performance": -0.208
+  },
+  {
+    "player": "Jordi Amat Maas",
+    "team": "Swansea City",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.206,
+    "performance": -0.206
+  },
+  {
+    "player": "Geoff Cameron",
+    "team": "Stoke City",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.196,
+    "performance": -0.196
+  },
+  {
+    "player": "Connor Steven Randall",
+    "team": "Liverpool",
+    "shots": 2,
+    "goals": 0,
+    "my_xg": 0.191,
+    "performance": -0.191
+  },
+  {
+    "player": "Fabio Borini",
+    "team": "Sunderland",
+    "shots": 2,
+    "goals": 0,
+    "my_xg": 0.19,
+    "performance": -0.19
+  },
+  {
+    "player": "Jack Colback",
+    "team": "Newcastle United",
+    "shots": 1,
+    "goals": 1,
+    "my_xg": 0.188,
+    "performance": 0.812
+  },
+  {
+    "player": "James Morrison",
+    "team": "West Bromwich Albion",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.182,
+    "performance": -0.182
+  },
+  {
+    "player": "\u00c9derzito Ant\u00f3nio Macedo Lopes",
+    "team": "Swansea City",
+    "shots": 2,
+    "goals": 0,
+    "my_xg": 0.182,
+    "performance": -0.182
+  },
+  {
+    "player": "Ashley Williams",
+    "team": "Swansea City",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.179,
+    "performance": -0.179
+  },
+  {
+    "player": "Ibrahim Afellay",
+    "team": "Stoke City",
+    "shots": 2,
+    "goals": 0,
+    "my_xg": 0.176,
+    "performance": -0.176
+  },
+  {
+    "player": "Gabriel Armando de Abreu",
+    "team": "Arsenal",
+    "shots": 2,
+    "goals": 0,
+    "my_xg": 0.172,
+    "performance": -0.172
+  },
+  {
+    "player": "Robert Huth",
+    "team": "Leicester City",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.168,
+    "performance": -0.168
+  },
+  {
+    "player": "Sebastian Pr\u00f6dl",
+    "team": "Watford",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.168,
+    "performance": -0.168
+  },
+  {
+    "player": "Winston Reid",
+    "team": "West Ham United",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.168,
+    "performance": -0.168
+  },
+  {
+    "player": "Raheem Sterling",
+    "team": "Manchester City",
+    "shots": 3,
+    "goals": 0,
+    "my_xg": 0.159,
+    "performance": -0.159
+  },
+  {
+    "player": "Theo Walcott",
+    "team": "Arsenal",
+    "shots": 3,
+    "goals": 0,
+    "my_xg": 0.159,
+    "performance": -0.159
+  },
+  {
+    "player": "Bojan Krk\u00edc P\u00e9rez",
+    "team": "Stoke City",
+    "shots": 2,
+    "goals": 1,
+    "my_xg": 0.158,
+    "performance": 0.842
+  },
+  {
+    "player": "Cheikhou Kouyat\u00e9",
+    "team": "West Ham United",
+    "shots": 4,
+    "goals": 0,
+    "my_xg": 0.156,
+    "performance": -0.156
+  },
+  {
+    "player": "Marouane Fellaini-Bakkioui",
+    "team": "Manchester United",
+    "shots": 3,
+    "goals": 0,
+    "my_xg": 0.156,
+    "performance": -0.156
+  },
+  {
+    "player": "Aaron Cresswell",
+    "team": "West Ham United",
+    "shots": 3,
+    "goals": 0,
+    "my_xg": 0.155,
+    "performance": -0.155
+  },
+  {
+    "player": "Luis Javier Garc\u00eda Sanz",
+    "team": "Liverpool",
+    "shots": 2,
+    "goals": 0,
+    "my_xg": 0.155,
+    "performance": -0.155
+  },
+  {
+    "player": "Yohan Cabaye",
+    "team": "Crystal Palace",
+    "shots": 5,
+    "goals": 0,
+    "my_xg": 0.15,
+    "performance": -0.15
+  },
+  {
+    "player": "Joel Ward",
+    "team": "Crystal Palace",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.144,
+    "performance": -0.144
+  },
+  {
+    "player": "Diafra Sakho",
+    "team": "West Ham United",
+    "shots": 1,
+    "goals": 1,
+    "my_xg": 0.138,
+    "performance": 0.862
+  },
+  {
+    "player": "Wayne Routledge",
+    "team": "Swansea City",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.138,
+    "performance": -0.138
+  },
+  {
+    "player": "Moussa Sissoko",
+    "team": "Newcastle United",
+    "shots": 2,
+    "goals": 0,
+    "my_xg": 0.125,
+    "performance": -0.125
+  },
+  {
+    "player": "Guangtai Jiang",
+    "team": "Everton",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.123,
+    "performance": -0.123
+  },
+  {
+    "player": "Mile Jedinak",
+    "team": "Crystal Palace",
+    "shots": 3,
+    "goals": 0,
+    "my_xg": 0.119,
+    "performance": -0.119
+  },
+  {
+    "player": "Glen Johnson",
+    "team": "Stoke City",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.115,
+    "performance": -0.115
+  },
+  {
+    "player": "Joel Nathaniel Campbell Samuels",
+    "team": "Arsenal",
+    "shots": 3,
+    "goals": 0,
+    "my_xg": 0.11,
+    "performance": -0.11
+  },
+  {
+    "player": "Pedro Mba Obiang Avomo",
+    "team": "West Ham United",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.11,
+    "performance": -0.11
+  },
+  {
+    "player": "Danny Simpson",
+    "team": "Leicester City",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.109,
+    "performance": -0.109
+  },
+  {
+    "player": "Patrick van Aanholt",
+    "team": "Sunderland",
+    "shots": 4,
+    "goals": 0,
+    "my_xg": 0.109,
+    "performance": -0.109
+  },
+  {
+    "player": "Scott Sinclair",
+    "team": "Aston Villa",
+    "shots": 3,
+    "goals": 0,
+    "my_xg": 0.107,
+    "performance": -0.107
+  },
+  {
+    "player": "Leandro Bacuna",
+    "team": "Aston Villa",
+    "shots": 2,
+    "goals": 0,
+    "my_xg": 0.103,
+    "performance": -0.103
+  },
+  {
+    "player": "Jonathan Howson",
+    "team": "Norwich City",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.101,
+    "performance": -0.101
+  },
+  {
+    "player": "Lee Tomlin",
+    "team": "AFC Bournemouth",
+    "shots": 2,
+    "goals": 0,
+    "my_xg": 0.101,
+    "performance": -0.101
+  },
+  {
+    "player": "James McCarthy",
+    "team": "Everton",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.096,
+    "performance": -0.096
+  },
+  {
+    "player": "Sami Hyypi\u00e4",
+    "team": "Liverpool",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.091,
+    "performance": -0.091
+  },
+  {
+    "player": "Alex Oxlade-Chamberlain",
+    "team": "Arsenal",
+    "shots": 2,
+    "goals": 0,
+    "my_xg": 0.086,
+    "performance": -0.086
+  },
+  {
+    "player": "H\u00e9ctor Beller\u00edn Moruno",
+    "team": "Arsenal",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.086,
+    "performance": -0.086
+  },
+  {
+    "player": "Kyle Bartley",
+    "team": "Swansea City",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.085,
+    "performance": -0.085
+  },
+  {
+    "player": "Ross Barkley",
+    "team": "Everton",
+    "shots": 4,
+    "goals": 0,
+    "my_xg": 0.084,
+    "performance": -0.084
+  },
+  {
+    "player": "Kelechi Promise Iheanacho",
+    "team": "Manchester City",
+    "shots": 3,
+    "goals": 0,
+    "my_xg": 0.083,
+    "performance": -0.083
+  },
+  {
+    "player": "Andros Townsend",
+    "team": "Newcastle United",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.08,
+    "performance": -0.08
+  },
+  {
+    "player": "Milan Baro\u0161",
+    "team": "Liverpool",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.079,
+    "performance": -0.079
+  },
+  {
+    "player": "Shane Long",
+    "team": "Southampton",
+    "shots": 2,
+    "goals": 0,
+    "my_xg": 0.078,
+    "performance": -0.078
+  },
+  {
+    "player": "Ryan Shawcross",
+    "team": "Stoke City",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.077,
+    "performance": -0.077
+  },
+  {
+    "player": "Anthony Martial",
+    "team": "Manchester United",
+    "shots": 3,
+    "goals": 1,
+    "my_xg": 0.074,
+    "performance": 0.926
+  },
+  {
+    "player": "Bakary Sako",
+    "team": "Crystal Palace",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.074,
+    "performance": -0.074
+  },
+  {
+    "player": "Micah Richards",
+    "team": "Aston Villa",
+    "shots": 2,
+    "goals": 0,
+    "my_xg": 0.074,
+    "performance": -0.074
+  },
+  {
+    "player": "Mesut \u00d6zil",
+    "team": "Arsenal",
+    "shots": 2,
+    "goals": 0,
+    "my_xg": 0.072,
+    "performance": -0.072
+  },
+  {
+    "player": "Jan Vertonghen",
+    "team": "Tottenham Hotspur",
+    "shots": 2,
+    "goals": 0,
+    "my_xg": 0.068,
+    "performance": -0.068
+  },
+  {
+    "player": "Diego da Silva Costa",
+    "team": "Chelsea",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.062,
+    "performance": -0.062
+  },
+  {
+    "player": "Santiago Cazorla Gonz\u00e1lez",
+    "team": "Arsenal",
+    "shots": 2,
+    "goals": 0,
+    "my_xg": 0.059,
+    "performance": -0.059
+  },
+  {
+    "player": "Pape N''Diaye Souar\u00e9",
+    "team": "Crystal Palace",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.058,
+    "performance": -0.058
+  },
+  {
+    "player": "Andrew Robertson",
+    "team": "Liverpool",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.057,
+    "performance": -0.057
+  },
+  {
+    "player": "Gast\u00f3n Exequiel Ram\u00edrez Pereyra",
+    "team": "Southampton",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.057,
+    "performance": -0.057
+  },
+  {
+    "player": "Radamel Falcao Garc\u00eda Z\u00e1rate",
+    "team": "Chelsea",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.052,
+    "performance": -0.052
+  },
+  {
+    "player": "James McClean",
+    "team": "West Bromwich Albion",
+    "shots": 3,
+    "goals": 0,
+    "my_xg": 0.048,
+    "performance": -0.048
+  },
+  {
+    "player": "Bradley Shaun Smith",
+    "team": "Liverpool",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.043,
+    "performance": -0.043
+  },
+  {
+    "player": "Marcos Evangelista de Moraes",
+    "team": "AC Milan",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.041,
+    "performance": -0.041
+  },
+  {
+    "player": "Jos\u00e9 Manuel Jurado Mar\u00edn",
+    "team": "Watford",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.038,
+    "performance": -0.038
+  },
+  {
+    "player": "Jason Puncheon",
+    "team": "Crystal Palace",
+    "shots": 2,
+    "goals": 0,
+    "my_xg": 0.035,
+    "performance": -0.035
+  },
+  {
+    "player": "Robert Brady",
+    "team": "Norwich City",
+    "shots": 2,
+    "goals": 0,
+    "my_xg": 0.034,
+    "performance": -0.034
+  },
+  {
+    "player": "Damien Delaney",
+    "team": "Crystal Palace",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.033,
+    "performance": -0.033
+  },
+  {
+    "player": "Fabian Delph",
+    "team": "Manchester City",
+    "shots": 2,
+    "goals": 0,
+    "my_xg": 0.033,
+    "performance": -0.033
+  },
+  {
+    "player": "Gilbert Gianelli Imbula Wanga",
+    "team": "Stoke City",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.033,
+    "performance": -0.033
+  },
+  {
+    "player": "Jordan Lyden",
+    "team": "Aston Villa",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.032,
+    "performance": -0.032
+  },
+  {
+    "player": "Baf\u00e9timbi Gomis",
+    "team": "Swansea City",
+    "shots": 2,
+    "goals": 0,
+    "my_xg": 0.031,
+    "performance": -0.031
+  },
+  {
+    "player": "Kyle Walker",
+    "team": "Tottenham Hotspur",
+    "shots": 2,
+    "goals": 0,
+    "my_xg": 0.031,
+    "performance": -0.031
+  },
+  {
+    "player": "Eric Dier",
+    "team": "Tottenham Hotspur",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.029,
+    "performance": -0.029
+  },
+  {
+    "player": "Xherdan Shaqiri",
+    "team": "Stoke City",
+    "shots": 2,
+    "goals": 0,
+    "my_xg": 0.029,
+    "performance": -0.029
+  },
+  {
+    "player": "Matteo Darmian",
+    "team": "Manchester United",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.028,
+    "performance": -0.028
+  },
+  {
+    "player": "Neil Taylor",
+    "team": "Swansea City",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.025,
+    "performance": -0.025
+  },
+  {
+    "player": "Etienne Capoue",
+    "team": "Watford",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.023,
+    "performance": -0.023
+  },
+  {
+    "player": "Jack Rodwell",
+    "team": "Sunderland",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.023,
+    "performance": -0.023
+  },
+  {
+    "player": "Memphis Depay",
+    "team": "Manchester United",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.023,
+    "performance": -0.023
+  },
+  {
+    "player": "Oriol Romeu Vidal",
+    "team": "Southampton",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.022,
+    "performance": -0.022
+  },
+  {
+    "player": "Claudio Ariel Yacob",
+    "team": "West Bromwich Albion",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.021,
+    "performance": -0.021
+  },
+  {
+    "player": "Graham Dorrans",
+    "team": "Norwich City",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.021,
+    "performance": -0.021
+  },
+  {
+    "player": "Phil Bardsley",
+    "team": "Stoke City",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.021,
+    "performance": -0.021
+  },
+  {
+    "player": "Wilfried Guemiand Bony",
+    "team": "Manchester City",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.021,
+    "performance": -0.021
+  },
+  {
+    "player": "Gary Cahill",
+    "team": "Chelsea",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.019,
+    "performance": -0.019
+  },
+  {
+    "player": "Ryan Bertrand",
+    "team": "Southampton",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.019,
+    "performance": -0.019
+  },
+  {
+    "player": "Danny Rose",
+    "team": "Tottenham Hotspur",
+    "shots": 2,
+    "goals": 0,
+    "my_xg": 0.018,
+    "performance": -0.018
+  },
+  {
+    "player": "Kevin Mirallas",
+    "team": "Everton",
+    "shots": 2,
+    "goals": 0,
+    "my_xg": 0.018,
+    "performance": -0.018
+  },
+  {
+    "player": "Mousa Sidi Yaya Demb\u00e9l\u00e9",
+    "team": "Tottenham Hotspur",
+    "shots": 2,
+    "goals": 0,
+    "my_xg": 0.018,
+    "performance": -0.018
+  },
+  {
+    "player": "Francesc F\u00e0bregas i Soler",
+    "team": "Chelsea",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.016,
+    "performance": -0.016
+  },
+  {
+    "player": "Jos\u00e9 Ramiro Funes Mori",
+    "team": "Everton",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.016,
+    "performance": -0.016
+  },
+  {
+    "player": "Trent Alexander-Arnold",
+    "team": "Liverpool",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.016,
+    "performance": -0.016
+  },
+  {
+    "player": "Christian Fuchs",
+    "team": "Leicester City",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.015,
+    "performance": -0.015
+  },
+  {
+    "player": "Eunan O''Kane",
+    "team": "AFC Bournemouth",
+    "shots": 2,
+    "goals": 0,
+    "my_xg": 0.015,
+    "performance": -0.015
+  },
+  {
+    "player": "Clarence Seedorf",
+    "team": "AC Milan",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.014,
+    "performance": -0.014
+  },
+  {
+    "player": "Jordy Clasie",
+    "team": "Southampton",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.014,
+    "performance": -0.014
+  },
+  {
+    "player": "Ben Watson",
+    "team": "Watford",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.013,
+    "performance": -0.013
+  },
+  {
+    "player": "Alessandro Nesta",
+    "team": "AC Milan",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.01,
+    "performance": -0.01
+  },
+  {
+    "player": "Ivan Gennaro Gattuso",
+    "team": "AC Milan",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.01,
+    "performance": -0.01
+  },
+  {
+    "player": "Vurnon Anita",
+    "team": "Newcastle United",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.01,
+    "performance": -0.01
+  },
+  {
+    "player": "Adl\u00e8ne Gu\u00e9dioura",
+    "team": "Watford",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.009,
+    "performance": -0.009
+  },
+  {
+    "player": "Gareth Barry",
+    "team": "Everton",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.009,
+    "performance": -0.009
+  },
+  {
+    "player": "Robert Kenedy Nunes do Nascimento",
+    "team": "Chelsea",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.009,
+    "performance": -0.009
+  },
+  {
+    "player": "Steven Berghuis",
+    "team": "Watford",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.009,
+    "performance": -0.009
+  },
+  {
+    "player": "Aaron Lennon",
+    "team": "Everton",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.008,
+    "performance": -0.008
+  },
+  {
+    "player": "Alexander Banor Tettey",
+    "team": "Norwich City",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.008,
+    "performance": -0.008
+  },
+  {
+    "player": "Ayoze P\u00e9rez Guti\u00e9rrez",
+    "team": "Newcastle United",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.008,
+    "performance": -0.008
+  },
+  {
+    "player": "Idrissa Gana Gueye",
+    "team": "Aston Villa",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.008,
+    "performance": -0.008
+  },
+  {
+    "player": "Ikechi Anya",
+    "team": "Watford",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.008,
+    "performance": -0.008
+  },
+  {
+    "player": "Junior Stanislas",
+    "team": "AFC Bournemouth",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.008,
+    "performance": -0.008
+  },
+  {
+    "player": "Steven Whittaker",
+    "team": "Norwich City",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.008,
+    "performance": -0.008
+  },
+  {
+    "player": "Sung-Yeung Ki",
+    "team": "Swansea City",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.008,
+    "performance": -0.008
+  },
+  {
+    "player": "Willian Borges da Silva",
+    "team": "Chelsea",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.008,
+    "performance": -0.008
+  },
+  {
+    "player": "Francis Joseph Coquelin",
+    "team": "Arsenal",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.007,
+    "performance": -0.007
+  },
+  {
+    "player": "F\u00e1bio Henrique Tavares",
+    "team": "Liverpool",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.007,
+    "performance": -0.007
+  },
+  {
+    "player": "Joe Gomez",
+    "team": "Liverpool",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.007,
+    "performance": -0.007
+  },
+  {
+    "player": "Mame Biram Diouf",
+    "team": "Stoke City",
+    "shots": 1,
+    "goals": 0,
+    "my_xg": 0.007,
+    "performance": -0.007
+  }
+]
