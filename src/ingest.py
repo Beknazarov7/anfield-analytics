@@ -172,12 +172,19 @@ def tidy_shots(shots: pd.DataFrame) -> pd.DataFrame:
     """
     shots = shots.copy()
 
-    # 'location' is a [x, y] list per shot. Pull out each component. We use a
-    # helper that tolerates missing/empty locations (returns NaN) so a stray
-    # bad row doesn't break the whole run.
+    # 'location' is an [x, y] pair per shot. Pull out each component. The pair
+    # is a Python list when freshly downloaded from StatsBomb, but comes back as
+    # a numpy array when read from the Parquet cache — so we accept any indexable
+    # sequence and tolerate missing/empty locations (returns NaN) rather than
+    # checking for a specific type.
     def coord(loc, idx):
-        if isinstance(loc, (list, tuple)) and len(loc) > idx:
-            return loc[idx]
+        if loc is None:
+            return float("nan")
+        try:
+            if len(loc) > idx:
+                return loc[idx]
+        except TypeError:
+            pass  # scalar/NaN with no len(): treat as missing
         return float("nan")
 
     shots["x"] = shots["location"].apply(lambda loc: coord(loc, 0))
