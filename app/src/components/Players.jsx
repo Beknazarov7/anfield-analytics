@@ -9,7 +9,7 @@ import {
   Legend,
   Cell,
 } from "recharts";
-import { TEAM, COLORS } from "../lib/constants.js";
+import { TEAM, COLORS, displayName } from "../lib/constants.js";
 
 const MIN_SHOTS = 3; // filter out tiny samples that produce noisy ratios
 const TOP_N = 15;
@@ -23,7 +23,7 @@ export default function Players({ players }) {
       .filter((p) => p.shots >= MIN_SHOTS && (!teamOnly || p.team === TEAM))
       .sort((a, b) => b.my_xg - a.my_xg)
       .slice(0, TOP_N)
-      .map((p) => ({ ...p, shortName: shorten(p.player) }));
+      .map((p) => ({ ...p, shortName: displayName(p.player) }));
   }, [players, teamOnly]);
 
   return (
@@ -122,8 +122,3 @@ function PerfBadge({ value }) {
   );
 }
 
-// StatsBomb stores full legal names; show a shorter, readable form.
-function shorten(name) {
-  const parts = name.split(" ");
-  return parts.length > 2 ? `${parts[0]} ${parts[parts.length - 1]}` : name;
-}

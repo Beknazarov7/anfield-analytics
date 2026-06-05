@@ -22,3 +22,27 @@ export const COLORS = {
 // Base path for fetching the static JSON, so it works whether the app is
 // served at "/" (Vercel) or a sub-path.
 export const dataUrl = (file) => `${import.meta.env.BASE_URL}data/${file}`;
+
+// StatsBomb's open data stores full LEGAL names, but the commonly-used name
+// can't be derived reliably: English players are usually known by their last
+// name ("Daniel Andre Sturridge" -> Sturridge), while many Brazilian/Iberian
+// players are known by a MIDDLE name ("Roberto Firmino Barbosa de Oliveira" ->
+// Firmino). So the default below keeps first + last, and this small map
+// overrides only the players where that default would be wrong.
+export const KNOWN_NAMES = {
+  "Christian Benteke Liolo": "Christian Benteke",
+  "Philippe Coutinho Correia": "Philippe Coutinho",
+  "Roberto Firmino Barbosa de Oliveira": "Roberto Firmino",
+  "Alberto Moreno Pérez": "Alberto Moreno",
+  "Xabier Alonso Olano": "Xabi Alonso",
+  "John Arne Semundseth Riise": "John Arne Riise",
+  "Oluwaseyi Babajide Ojo": "Sheyi Ojo",
+};
+
+// Human-friendly display name: the curated override if we have one, else the
+// first + last token of the legal name (a good default for most players).
+export const displayName = (fullName) => {
+  if (KNOWN_NAMES[fullName]) return KNOWN_NAMES[fullName];
+  const parts = fullName.split(" ");
+  return parts.length > 2 ? `${parts[0]} ${parts[parts.length - 1]}` : fullName;
+};

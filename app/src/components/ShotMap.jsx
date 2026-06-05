@@ -1,6 +1,6 @@
 import { useMemo } from "react";
 import { scaleLinear, scaleSqrt } from "d3-scale";
-import { TEAM, COLORS } from "../lib/constants.js";
+import { TEAM, COLORS, displayName } from "../lib/constants.js";
 
 /**
  * A custom D3-driven shot map drawn on a football pitch.
@@ -82,7 +82,7 @@ export default function ShotMap({ shots, opponent }) {
               strokeOpacity={s.is_goal ? 1 : 0.85}
             >
               <title>
-                {`${s.player} (${s.team}) — ${s.minute}'  xG ${s.my_xg.toFixed(
+                {`${displayName(s.player)} (${s.team}) — ${s.minute}'  xG ${s.my_xg.toFixed(
                   2
                 )}${s.is_goal ? "  ⚽ GOAL" : `  ${s.outcome}`}`}
               </title>
